@@ -11,4 +11,5 @@ Remember when I said that I wasnt going through the right process well one road 
 Well I did it.
 
 Another time not to be sure of what I am doing but I ould still continue to do it even if it is rubbish.
-Well here I am trying to create a branch in git 
+Well here I am trying to create a branch in git
+ok they said i should add somethhing here so here is me doing just that
